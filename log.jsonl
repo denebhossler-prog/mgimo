@@ -1,0 +1,6 @@
+{"ts": "2026-11-21T12:11:01Z", "action": "S0 постановка рамки из брифа", "model": "claude", "tokens_in": null, "tokens_out": null, "usd": null, "note": "не измерялось"}
+{"ts": "2026-11-21T12:11:01Z", "action": "S1 извлечение фактов E-01..E-13, допущения A-", "model": "claude", "tokens_in": null, "tokens_out": null, "usd": null, "note": "не измерялось"}
+{"ts": "2026-11-21T12:11:01Z", "action": "S2 исследование: декомпозиция, приоритет проблем", "model": "claude", "tokens_in": null, "tokens_out": null, "usd": null, "note": "не измерялось"}
+{"ts": "2026-11-21T12:11:01Z", "action": "econ.py/power.py: расчёт сценариев и мощности", "model": "python", "tokens_in": null, "tokens_out": null, "usd": null, "note": "не измерялось"}
+{"ts": "2026-11-21T12:11:01Z", "action": "S3 варианты; S4 стратегии и план проверки", "model": "claude", "tokens_in": null, "tokens_out": null, "usd": null, "note": "не измерялось"}
+{"ts": "2026-11-21T12:11:01Z", "action": "S5 check", "model": "python", "tokens_in": null, "tokens_out": null, "usd": null, "note": "не измерялось"}

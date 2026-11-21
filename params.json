@@ -1,0 +1,10 @@
+{
+ "common": {"start_groups": 6500, "groups_nochange_end": 8000, "active_nochange": 5000, "activation_nochange": 0.45,
+            "gp_nochange_mln": 279.0, "gp_target_mln": 285.0, "owners_nochange": 1000, "gp_per_month_rub": 500,
+            "numbers_per_group": 3.0, "holdout_share": 0.10, "group_exit_annual": 0.15},
+ "scenarios": {
+  "low":  {"eligible_share": 0.40, "rollout_month": 8, "c0_monthly": 0.02, "s_attrib": 0.10, "rho": 0.10, "active_uplift_pp": 0.00, "activation_uplift_pp": 0.00, "direct_cost_rub_per_number_month": 1.0},
+  "base": {"eligible_share": 0.60, "rollout_month": 7, "c0_monthly": 0.02, "s_attrib": 0.20, "rho": 0.25, "active_uplift_pp": 0.08, "activation_uplift_pp": 0.06, "direct_cost_rub_per_number_month": 1.0},
+  "high": {"eligible_share": 0.80, "rollout_month": 7, "c0_monthly": 0.03, "s_attrib": 0.35, "rho": 0.40, "active_uplift_pp": 0.15, "activation_uplift_pp": 0.10, "direct_cost_rub_per_number_month": 1.0}
+ }
+}
